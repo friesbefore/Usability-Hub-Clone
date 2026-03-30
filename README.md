@@ -43,20 +43,6 @@ The website is optimized for different screen sizes:
 
 ---
 
-## 📂 Project Structure
-
-```
-UsabilityHub-Clone/
-│
-├── index.html
-├── styles.css
-├── mediaquery.css
-├── Asset/
-│   ├── images and icons
-```
-
----
-
 ## 🎯 Purpose
 
 This project was created to:
